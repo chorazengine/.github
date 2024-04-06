@@ -1,4 +1,4 @@
-# <img height="100rem" width="100%" src="https://github.com/chorazengine/.github/assets/72300200/3a6e3dbc-feb7-4c57-b274-e960eb1a3382" />
+# <img height="100rem" width="100%" src="https://github.com/chorazengine/.github/assets/72300200/3a6e3dbc-feb7-4c57-b274-e960eb1a3382" >
 Choraz Engine, an upcomming engine written fully in C++ and C, that takes a modern technology approach supporting latest technologies like DirectX 11 and 12, Vulkan, OpenGL for Mobile and more!<br>
 Additionally you can both script and compile in our own language Chorz for quick prototyping and production level speed and visually develop your games with ease using ChorzBlocks.
 
