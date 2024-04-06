@@ -11,6 +11,6 @@ And on top of that languages like Python for simple scripting and fast prototypi
 
 ## Our mission
 We aim towards making a modern and feature packed engine that fits in recent times while being light weight and modular for everyone to extend and to easily maintain.<br>
-What are you waiting for? Support this project by staring it and waiting for roadmaps and further resources to drop!
+What are you waiting for? Support this project by staring it and waiting for road maps and further resources to drop!
 
 [Our Discord (Coming Soon)](#)
