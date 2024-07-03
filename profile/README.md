@@ -3,7 +3,6 @@ Choraz Engine, an upcomming engine written fully in C++ and C, that takes a mode
 Additionally you can both script and compile our own language Chorz for quick prototyping and production level speed, or visually develop your games with ease using ChorzBlocks.
 
 ### We're planning to support
-- Zig lang
 - C++
 - C#
 - Rust
