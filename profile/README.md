@@ -6,7 +6,7 @@ Additionally you can both script and compile our own language Chorz for quick pr
 - C++
 - C#
 - Rust
-And on top of that languages like Python for simple scripting and fast prototyping.
+And on top of that languages like Chorz for simple scripting and fast prototyping.
 
 ## Our mission
 We aim towards making a modern and feature packed engine that fits in recent times while being light weight and modular for everyone to extend and to easily maintain.<br>
