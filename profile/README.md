@@ -3,10 +3,10 @@ Choraz Engine, an upcomming engine written fully in C++ and C, that takes a mode
 Additionally you can both script and compile our own language Chorz for quick prototyping and production level speed, or visually develop your games with ease using ChorzBlocks.
 
 ### We're planning to support
-- C++
-- C#
-- Rust
-And on top of that languages like Chorz for simple scripting and fast prototyping.
+- Chorz and ChorzBlocks: Our in-house languages developed for speed both in development and execution!
+- C++: If you want to get into the deep giddies of the engine and crank every bit of performance.
+- C#: For the Unity bros, ofc ;)!
+- Rust: No comment.
 
 ## Our mission
 We aim towards making a modern and feature packed engine that fits in recent times while being light weight and modular for everyone to extend and to easily maintain.<br>
