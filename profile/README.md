@@ -8,6 +8,12 @@ Additionally you can both script and compile our own language Chorz for quick pr
 - C#: For the Unity bros, ofc ;)!
 - Rust: No comment.
 
+## Chorz/ChorzBlocks
+Chorz and ChorzBlocks are our in-house languages that can both be interpretted realtime or compiled to our intermediate bytecode language to be executed everywhere at blazingly quick speeds!<br>
+It allows for high-speeds and garbage collection, but also low level access and high customisability. You can even disable garbage collection and manage everything yourself.
+
+Chorz is the most recommended language to be used with Choraz since it's got the highest level of support, can be switched back and forth from Chorz and ChorzBlocks to even visually write your code.
+
 ## Our mission
 We aim towards making a modern and feature packed engine that fits in recent times while being light weight and modular for everyone to extend and to easily maintain.<br>
 What are you waiting for? Support this project by staring it and waiting for road maps and further resources to drop!
